@@ -12,8 +12,9 @@ So we have a 50 byte FACET for Binary Storage.
 # ASCII- 
 It starts with the solid name and then we have normal and vertices information.
 
+# BASIC INFO
 In this Code, a standard MATLAB function stlread is used to extract the vertices of the triangles.
-After that SLicing is done by introducing Planes along Z axis as per user's demand.
+After that Slicing is done by introducing Planes along Z axis as per user's demand.
 The values of Intersections are stored.
 Plotting the values using delaunay triangles gives us a rough Idea of the cross section, which was found to be satisfyingly accurate.
 This code is applicable for simplified models with less no. of Vertices in the mesh( in order of maximum 10^4) 
