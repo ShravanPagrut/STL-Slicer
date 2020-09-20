@@ -24,5 +24,5 @@ Create an open source Slicer software by configuring
 1. Pathing Options(Either zigzag, or if possible implementation of Hilbert continuous paths)
 2.Options for changing Axis of Slicing
 And further if time permits-
-Configuring Extrusion paramters too.
+Configuring Extrusion parameters too.
 # Any feedback is appreciated.
